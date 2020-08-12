@@ -22,4 +22,4 @@
 1. Download and install. 
 #### You may receive warning from Windows -> I am too poor to buy Windows certificate
 
-![Extension image](https://github.com/ImY0mu/SMMO-chat/blob/master/chat.png)
+![Chat Client image](https://github.com/ImY0mu/SMMO-chat/blob/master/chat.png)
