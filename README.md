@@ -1,6 +1,6 @@
 # SMMO chat client - windows software
 ## Version: 0.6.0-beta
-[Download Chat Client](https://bit.ly/31jEsnS)
+[Download](https://bit.ly/31jEsnS)
 #### Developed by Y0mu#0703
 ### Features:
 - Custom themes -> option to add, remove, customize, export or import themes.
