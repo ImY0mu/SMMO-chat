@@ -1,5 +1,6 @@
 # SMMO chat client - windows software
 ## Version: 0.6.0-beta
+[Download Chat Client](https://bit.ly/31jEsnS)
 #### Developed by Y0mu#0703
 ### Features:
 - Custom themes -> option to add, remove, customize, export or import themes.
@@ -13,11 +14,8 @@
 - Emoji keyboard
 - SOFT updating - chat does not get automatically updated if you are not scrolled to top
    - notification showing how many new messages are there since the last update -> updates chat on click
-#### Popup:
-- Can be found at the extensions bar at the top right (should be there), just click on the icon of the extension and the popup will appear.
 ### Requirements:
-- Chrome browser
-- Signed to SMMO web app
+- Windows OS
 ### Installation guide:
 1. Download and install. 
 #### You may receive warning from Windows -> I am too poor to buy Windows certificate
