@@ -1,8 +1,6 @@
 # SMMO chat client - windows software
 ## Latest Version: 0.6.2-beta
-Coming soon
-## Version: 0.6.0-beta
-[Download](https://bit.ly/31jEsnS)
+[Download](bit.ly/3iSd1J0)
 #### Developed by Y0mu#0703
 ### Patch notes
 #### 0.6.2-beta
