@@ -1,8 +1,10 @@
 # SMMO chat client - windows software
-## Latest Version: 0.6.2-beta
-[Download](http://bit.ly/3iSd1J0)
+## Latest Version: 0.6.4-beta
+[Download](https://bit.ly/31loVFc)
 #### Developed by Y0mu#0703
 ### Patch notes
+#### 0.6.4-beta
+- hotfix of being stuck at blank screen 
 #### 0.6.2-beta
 - Small UI changes
 - Added new options to Player Action menu (Gift diamonds, View Market)
