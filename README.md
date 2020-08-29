@@ -1,8 +1,14 @@
 # SMMO chat client - windows software
-## Latest Version: 0.6.4-beta
-[Download](https://bit.ly/31loVFc)
+## Latest Version: 0.7.0-beta
+[Download](https://bit.ly/2QrEYLs)
 #### Developed by Y0mu#0703
 ### Patch notes
+#### 0.7.0-beta
+- Reworked context menu (Action menu)
+- Refresh/send button is now disabled when the chat is updating
+- Moved to the game's CHAT API server -> should be a lil bit faster
+- Changed guild icon at the change chat button
+- Reworked auto update interface
 #### 0.6.4-beta
 - hotfix of being stuck at blank screen 
 #### 0.6.2-beta
