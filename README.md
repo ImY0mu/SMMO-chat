@@ -1,8 +1,21 @@
 # SMMO chat client - windows software
-## Latest Version: 0.7.0-beta
-[Download](https://bit.ly/2QrEYLs)
+## Latest Version: 0.8.2-beta
+[Download](https://bit.ly/35s98VV)
 #### Developed by Y0mu#0703
 ### Patch notes
+#### 0.8.2-beta
+- Rewrote few functions
+- Implemented new chat channels -> trade, support
+- Implemented latest patch notes
+- Many changes and fixes of UI
+- Fixed auto updating
+- Halloween theme!
+- Changed few variables for theme customization 
+##### If you have a custom theme, it is recommended to export and import your customized theme so it fully works
+#### 0.7.4-beta
+- Fixed context menu for long names
+- Fixed bugs after Mike's changes to chat API (send message, server message, not working context menu items, etc.)
+- Changed position of event type icon at server message (from chest, ba)
 #### 0.7.0-beta
 - Reworked context menu (Action menu)
 - Refresh/send button is now disabled when the chat is updating
