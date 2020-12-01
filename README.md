@@ -1,8 +1,18 @@
 # SMMO chat client - windows software
+## You can now support me through [Patreon](https://www.patreon.com/y0mu)
 ## Latest Version: 0.8.2-beta
 [Download](https://bit.ly/35s98VV)
 #### Developed by Y0mu#0703
 ### Patch notes
+#### 0.8.5-beta
+- Fixed event trigger
+- Fixed styling mistakes at patch notes
+- Fixed styling mistakes at settings and updated name and the description of each option - Thanks Synn
+- Fixed send item option - used to redirect to attack page
+- Patch notes and About popups have fixed colour theme
+- Added an option to send gold within the app -> error messages not included bcs of limitations
+- Client switches between light & dark theme on installation, it depends on your windows prefered settings
+- You can now refresh the client by F5 or CTRL+R
 #### 0.8.2-beta
 - Rewrote few functions
 - Implemented new chat channels -> trade, support
