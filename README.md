@@ -1,7 +1,7 @@
 # SMMO chat client - windows software
 ## You can now support me through [Patreon](https://www.patreon.com/y0mu)
-## Latest Version: 0.8.2-beta
-[Download](https://bit.ly/35s98VV)
+## Latest Version: 0.8.5-beta
+[Download](https://bit.ly/3obR22a)
 #### Developed by Y0mu#0703
 ### Patch notes
 #### 0.8.5-beta
