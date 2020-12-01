@@ -1,8 +1,9 @@
 # SMMO chat client - windows software
-## You can now support me through [Patreon](https://www.patreon.com/y0mu)
+### You can now support me through [Patreon](https://www.patreon.com/y0mu)
 ## Latest Version: 0.8.5-beta
 [Download](https://bit.ly/3obR22a)
-#### Developed by Y0mu#0703
+
+![Chat Client image](https://github.com/ImY0mu/SMMO-chat/blob/master/chat.png)
 ### Features:
 - Custom themes -> option to add, remove, customize, export or import themes.
 - Option to stay always on top of windows
@@ -20,8 +21,6 @@
 ### Installation guide:
 1. Download and install. 
 #### You may receive warning from Windows -> I am too poor to buy Windows certificate
-
-![Chat Client image](https://github.com/ImY0mu/SMMO-chat/blob/master/chat.png)
 
 ### Patch notes
 #### 0.8.5-beta
