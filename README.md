@@ -22,7 +22,7 @@
 1. Download and install. 
 #### You may receive warning from Windows -> I am too poor to buy Windows certificate
 
-### Patch notes
+## Patch notes
 #### 0.8.5-beta
 - Fixed event trigger
 - Fixed styling mistakes at patch notes
