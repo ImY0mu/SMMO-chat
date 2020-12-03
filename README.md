@@ -1,6 +1,6 @@
 # SMMO chat client - windows software
 ### You can now support me through [Patreon](https://www.patreon.com/y0mu)
-## Latest Version: [0.8.5-beta](https://bit.ly/3obR22a)
+## Latest Version: [0.8.6-beta](https://bit.ly/3lFBx0E)
 
 
 ![Chat Client image](https://github.com/ImY0mu/SMMO-chat/blob/master/chat.png)
@@ -23,6 +23,18 @@
 #### You may receive warning from Windows -> I am too poor to buy Windows certificate
 
 ## Patch notes
+#### 0.8.6-beta
+- Fixed tagging and player menu of names containing [ & ] after name
+- Fixed item rarity colors not showing up at item popup
+- Fixed some item rarity colors not showing up in chat
+- Made some changed to patch notes (again)
+- You can now redirect to player market from item popup and search for the item
+- Moderators can now mute within the app
+- Changed the textarea for send message
+- F5 now refreshes the chat & starts the autoupdating in case of server dying
+- Changed position of Christmas lights bcs of long names
+- Removed some information from popups for Background, Avatar, Sprite
+- Changed position, size and made some design changes to player menu
 #### 0.8.5-beta
 - Fixed event trigger
 - Fixed styling mistakes at patch notes
