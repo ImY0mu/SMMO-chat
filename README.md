@@ -82,4 +82,3 @@
 - Added new options to Player Action menu (Gift diamonds, View Market)
 - Added new feature "Quick Action" -> Set which you would like to use in settings (Usage: Shift + Left Click on player's name)
 - Added new feature "Chat Flow" -> Set which you would like to use in settings (Reverses the flow of chat [Top -> Bottom] | [Bottom -> Top])
-#### 0.6.0-beta [Download](https://bit.ly/31jEsnS)
