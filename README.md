@@ -1,21 +1,20 @@
 # SMMO chat client - windows software
 ### You can now support me through [Patreon](https://www.patreon.com/y0mu)
-## Latest Version: [0.8.6-beta](https://bit.ly/3lFBx0E)
+## Latest Version: [0.9.0-beta](https://bit.ly/3n0iS0Y)
 
 
 ![Chat Client image](https://github.com/ImY0mu/SMMO-chat/blob/master/chat.png)
 ### Features:
 - Custom themes -> option to add, remove, customize, export or import themes.
-- Option to stay always on top of windows
+- Window priority over other windows
 - Profanity filter
-- Click on name in chat:
-  - Left Click -> Tag the name in text area
-  - CTRL + Left Click -> Copy the name
-  - Shift + Left Click -> Quick Action (Change in settings)
-  - Right Click -> Player action menu with options like Attack, View, Send, etc. (opens in default browser)
+- Player menu when clicked on name in chat
+- Guild menu to navigate to guild pages when clicked on guild name
+- Game menu to navigate to game pages when clicked on gamepad button in right side menu (top right icon)
 - Emoji keyboard
 - SOFT updating - chat does not get automatically updated if you are not scrolled to top
    - notification showing how many new messages are there since the last update -> updates chat on click
+- Tag feature -> history of tags & windows notifications when tagged
 ### Requirements:
 - Windows OS
 ### Installation guide:
@@ -23,6 +22,19 @@
 #### You may receive warning from Windows -> I am too poor to buy Windows certificate
 
 ## Patch notes
+#### 0.9.0-beta
+- App is now more smooth: Authentication, Chat and Logout are now handled in different instances
+- Changed emoji keyboard library
+- Guild chat can be found in channels from now
+- Added 3 new context menu -> Click at your name, your guild name or at the new gamepad icon in side menu
+- Common rarity color gets lighter if your background color is dark
+- New Feature - Tags history
+- New Feature - Windows notification when tagged and window is in background (let me know if it does not work for you)
+- Fixed some item rarity colors not showing up in chat
+- Made some changes to context menu
+- Changed the way help is shown in settings
+- Preparation for 1.0
+
 #### 0.8.6-beta
 - Fixed tagging and player menu of names containing [ & ] after name
 - Fixed item rarity colors not showing up at item popup
