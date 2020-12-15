@@ -1,11 +1,12 @@
 # SMMO chat client - windows software
 ### You can now support me through [Patreon](https://www.patreon.com/y0mu)
-## Latest Version: [0.9.0-beta](https://bit.ly/3n0iS0Y)
+## Latest Version: [0.9.2-beta](https://bit.ly/3gPxTAP)
 
 
 ![Chat Client image](https://github.com/ImY0mu/SMMO-chat/blob/master/chat.png)
 ### Features:
-- Custom themes -> option to add, remove, customize, export or import themes.
+- Custom themes -> option to add, remove, customize, export or import themes
+- Chat commands
 - Window priority over other windows
 - Profanity filter
 - Player menu when clicked on name in chat
@@ -22,6 +23,15 @@
 #### You may receive warning from Windows -> I am too poor to buy Windows certificate
 
 ## Patch notes
+#### 0.9.2-beta
+- UI changes
+- NEW FEATURE - Commands [write /commands into chatbox and press send to find out more] - suggestions for new commands are welcome
+- Added new tooltips (hover over icons in names)
+- Fixed caret placement when picked emoji
+- Fixed game's staff action menu and tags
+- Fixed invert chat bug
+- Preparation for 1.0
+
 #### 0.9.0-beta
 - App is now more smooth: Authentication, Chat and Logout are now handled in different instances
 - Changed emoji keyboard library
