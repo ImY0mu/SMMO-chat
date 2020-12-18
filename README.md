@@ -1,6 +1,6 @@
 # SMMO chat client - windows software
 ### You can now support me through [Patreon](https://www.patreon.com/y0mu)
-## Latest Version: [0.9.2-beta](https://bit.ly/3gPxTAP)
+## Latest Version: [0.9.3-beta](https://bit.ly/3ra5das)
 
 
 ![Chat Client image](https://github.com/ImY0mu/SMMO-chat/blob/master/chat.png)
@@ -23,6 +23,14 @@
 #### You may receive warning from Windows -> I am too poor to buy Windows certificate
 
 ## Patch notes
+#### 0.9.3-beta
+- Fixed typo mistake
+- Fixed Windows notifications
+- Fixed resizing issue when window was minimalized with window priority enabled
+- Fixed bug when NULL tooltip showed up on icon click
+- Improved and added new chat commands (/commands)
+- Removed quick game links (guild name, player name, gamepad) - all are part of commands
+
 #### 0.9.2-beta
 - UI changes
 - NEW FEATURE - Commands [write /commands into chatbox and press send to find out more] - suggestions for new commands are welcome
