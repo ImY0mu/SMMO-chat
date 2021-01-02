@@ -1,6 +1,6 @@
 # SMMO chat client - windows software
 ### You can now support me through [Patreon](https://www.patreon.com/y0mu)
-## Latest Version: [0.9.3-beta](https://bit.ly/3ra5das)
+## Latest Version: [0.9.5-beta](https://bit.ly/2LjddFl)
 
 
 ![Chat Client image](https://github.com/ImY0mu/SMMO-chat/blob/master/chat.png)
@@ -23,6 +23,23 @@
 #### You may receive warning from Windows -> I am too poor to buy Windows certificate
 
 ## Patch notes
+#### 0.9.5-beta
++ Improved commands UI [write / into chatbox to find out more]
++ Added early preview of World bosses
++ Reworked Action menu UI (right click on player's name)
++ Reworked code of rendering messages -> should work smoother
++ Updated the client to newer API -> some stuff still missing (e.g. guild icon)
++ Reworked how tags reading
++ Your name is now highlighted in message if written correctly
+- Removed older command -> /commands
+- Removed right click menu on server messages
+• Fixed bug with broken sprites on tag
+• Fixed bug where you were able to start the chat more than once
+• Fixed bug when name containing staff roles was highlighted
+• Fixed delay of placing caret at the end
+• Fixed bug when pasting into chat area showing not plain text
+• Fixed bug when spamming menu button bugged out icons
+
 #### 0.9.3-beta
 - Fixed typo mistake
 - Fixed Windows notifications
