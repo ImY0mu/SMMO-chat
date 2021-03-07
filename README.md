@@ -1,6 +1,6 @@
 # SMMO chat client - windows software
 ### You can now support me through [Patreon](https://www.patreon.com/y0mu)
-## Latest Version: [0.9.5-beta](https://bit.ly/2LjddFl)
+## Latest Version: [0.9.7-beta](https://bit.ly/2Ov9wOy)
 
 
 ![Chat Client image](https://github.com/ImY0mu/SMMO-chat/blob/master/chat.png)
@@ -23,6 +23,13 @@
 #### You may receive warning from Windows -> I am too poor to buy Windows certificate
 
 ## Patch notes
+#### 0.9.7-beta
+• Fixed logout
+• Fixed waving
+• Fixed server announcement message breaking chat
++ Improved chat commands
++ Added basic tutorial - still needs improvements
+
 #### 0.9.5-beta
 + Improved commands UI [write / into chatbox to find out more]
 + Added early preview of World bosses
