@@ -25,7 +25,9 @@
 
 ## Patch notes
 #### 0.9.7-beta
-• Fixed: logout, waving, server announcement message breaking chat
++ Fixed logout
++ Fixed waving
++ Fixed server announcement message breaking chat
 + Improved chat commands
 + Added basic tutorial - still needs improvements
 
