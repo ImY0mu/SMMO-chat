@@ -1,3 +1,4 @@
+
 # SMMO chat client - windows software
 ### You can now support me through [Patreon](https://www.patreon.com/y0mu)
 ## Latest Version: [0.9.7-beta](https://bit.ly/2Ov9wOy)
@@ -24,9 +25,7 @@
 
 ## Patch notes
 #### 0.9.7-beta
-• Fixed logout
-• Fixed waving
-• Fixed server announcement message breaking chat
+• Fixed: logout, waving, server announcement message breaking chat
 + Improved chat commands
 + Added basic tutorial - still needs improvements
 
