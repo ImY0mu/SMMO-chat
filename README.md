@@ -3,7 +3,7 @@
 ## Latest Version: [0.9.7-beta](https://bit.ly/2Ov9wOy)
 
 
-![Chat Client image](https://github.com/ImY0mu/SMMO-chat/blob/master/chat.png)
+![Chat Client image](https://github.com/ImY0mu/SMMO-chat/blob/master/chat.jpg)
 ### Features:
 - Custom themes -> option to add, remove, customize, export or import themes
 - Chat commands
